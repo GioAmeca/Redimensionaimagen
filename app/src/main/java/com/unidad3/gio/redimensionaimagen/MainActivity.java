@@ -9,8 +9,8 @@ import android.widget.SeekBar;
 public class MainActivity extends AppCompatActivity {
     ImageView ImgMono;
     SeekBar SBUno;
-    private int iWidth = 65;
-    private int iHeight = 52;
+    private int iWidth = 50;
+    private int iHeight = 50;
     float density ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
